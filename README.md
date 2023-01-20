@@ -8,4 +8,6 @@ Repository containing all microservices + gateway I made for my 6th semester of 
   <img src="img/docker.png" alt="logo" width="100"  height="100" />
   <img src="img/kubernetes.png" alt="logo" width="100"  height="100" />
   <img src="img/azure.png" alt="logo" width="100"  height="90" />
+  <img src="img/grafana.png" alt="logo" width="100"  height="100" />
+  <img src="img/influxdb.png" alt="logo" width="100"  height="100" />
   <br/>
