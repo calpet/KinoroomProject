@@ -8,7 +8,8 @@ Repository containing all microservices + gateway I made for my 6th semester of 
 - Docker
 - Keycloak
 - Github Actions
-- Snyk
+- Snyk Container
+- Dependabot
 - Sonarcloud
 - Azure
 - KrakenD
