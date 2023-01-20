@@ -30,7 +30,7 @@ Repository containing all microservices + gateway I made for my 6th semester of 
 
 
 ## API Endpoints (from gateway)
-SearchQuery has the following endpoints:
+The application has the following endpoints:
 HTTP method | API endpoints             | Description
 ------------|---------------------------|---------------------------
  GET        | /api/v1/Movies            | Get all movies
