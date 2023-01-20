@@ -7,3 +7,6 @@
 [submodule "Threads-Service"]
 	path = Threads-Service
 	url = https://github.com/IndividualProjectSemester6/Threads-Service.git
+[submodule "Gateway"]
+	path = Gateway
+	url = https://github.com/IndividualProjectSemester6/Gateway.git
