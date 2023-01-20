@@ -1,5 +1,5 @@
 # Kinoroom Project
-Repository containing all microservices + gateway I made for my 6th semester of Software Engineering of Fontys University of Applied Sciences. It's a simple application that allows users to create discussions (threads) in forums based on movies.
+Repository containing all microservices + gateway I made for my 6th semester of Software Engineering at Fontys University of Applied Sciences. It's a simple application that allows users to create discussions (threads) in forums based on movies.
 
 ## Technologies used
 - .NET Core 6 (C#)
