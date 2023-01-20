@@ -7,6 +7,7 @@ Repository containing all microservices + gateway I made for my 6th semester of 
 - Kubernetes
 - Docker
 - Keycloak
+- Github Actions
 - Snyk
 - Sonarcloud
 - Azure
@@ -66,7 +67,7 @@ If all of them have been built and deployed successfully, find the port of the g
 ```bash
 $ kubectl get svc api-gateway-service
 ```
-Now you can make a request to http://{your_ip}:{port}/api/v1/{service_name}/{endpoint} to see it in action!
+Now you can make a request to `http://{your_ip}:{port}/api/v1/{service_name}/{endpoint}` to see the application in action!
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
