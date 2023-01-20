@@ -7,6 +7,8 @@ Repository containing all microservices + gateway I made for my 6th semester of 
 - Kubernetes
 - Keycloak
 - Github Actions
+- Entity Framework
+- Microsoft SQL
 - Snyk Container
 - Dependabot
 - Sonarcloud
