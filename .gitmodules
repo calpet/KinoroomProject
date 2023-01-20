@@ -1,0 +1,3 @@
+[submodule "subdirectory/Movies-Service"]
+	path = subdirectory/Movies-Service
+	url = https://github.com/IndividualProjectSemester6/Movies-Service.git
