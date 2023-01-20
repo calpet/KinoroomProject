@@ -6,6 +6,3 @@ Repository containing all microservices + gateway I made for my 6th semester of 
 [<img alt="alt_text" width="40px" src="images/docker.png" />]
 [<img alt="alt_text" width="40px" src="images/kubernetes.png" />]
 [<img alt="alt_text" width="40px" src="images/azure.png" />]
-
-
-
