@@ -19,6 +19,13 @@ Repository containing all microservices + gateway I made for my 6th semester of 
 - MediatR (CQRS)
 - MassTransit
 
+## Software architecture
+<img src="img/c2model.png" height="auto" width="auto">
+
+## CI/CD pipeline
+<img src="img/CICD_diagram.png" height="auto" width="auto">
+
+
 ## API Endpoints (from gateway)
 SearchQuery has the following endpoints:
 HTTP method | API endpoints             | Description
