@@ -2,7 +2,10 @@
 Repository containing all microservices + gateway I made for my 6th semester of Software Engineering of Fontys University of Applied Sciences
 
 ## Technologies used
-[!alt text](img/NET_Core_Logo.svg.png)
-[<img alt="alt_text" width="40px" src="img/docker.png" />]
-[<img alt="alt_text" width="40px" src="img/kubernetes.png" />]
-[<img alt="alt_text" width="40px" src="img/azure.png" />]
+[<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="img/NET_Core_Logo.svg.png" alt="logo" width="140"  height="auto" />
+  <img src="img/docker.png" alt="logo" width="140"  height="auto" />
+  <img src="img/kubernetes.png" alt="logo" width="140"  height="auto" />
+  <img src="img/azure.png" alt="logo" width="140"  height="auto" />
+  <br/>]
