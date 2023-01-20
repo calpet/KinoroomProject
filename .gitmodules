@@ -4,3 +4,6 @@
 [submodule "Forums-Service"]
 	path = Forums-Service
 	url = https://github.com/IndividualProjectSemester6/Forums-Service.git
+[submodule "Threads-Service"]
+	path = Threads-Service
+	url = https://github.com/IndividualProjectSemester6/Threads-Service.git
