@@ -5,7 +5,6 @@ Repository containing all microservices + gateway I made for my 6th semester of 
 - .NET Core 6 (C#)
 - Docker
 - Kubernetes
-- Docker
 - Keycloak
 - Github Actions
 - Snyk Container
