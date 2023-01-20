@@ -12,6 +12,7 @@ Repository containing all microservices + gateway I made for my 6th semester of 
 - Dependabot
 - Sonarcloud
 - Azure
+- Ocelot (deprecated, replaced with KrakenD)
 - KrakenD
 - k6
 - RabbitMQ
